@@ -46,5 +46,5 @@ let sectionText = {
 
 let imageSrc = {
     0: "pics/pic1.jpg",
-    1: "pics/pic2.jpg",
+    1: "/pics/pic2.jpg",
 }
